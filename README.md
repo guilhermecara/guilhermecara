@@ -1,3 +1,5 @@
+<img src="/header.png"/>
+
 <h2>Tools and Technologies</h1> 
 
 <div align="center">
