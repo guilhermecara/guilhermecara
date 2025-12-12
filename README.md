@@ -19,6 +19,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecara&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
+<h2>Contact information</h2>
+<div>
+</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermecara/guilhermecara/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermecara/guilhermecara/output/github-contribution-grid-snake-dark.svg">
