@@ -11,20 +11,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+<h2>Contact me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-cardoso-de-araujo-038804325/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>    
+</div>
 
 <h2>GitHub Status</h1>
-<div align="center"x>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=guilhermecara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecara&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermecara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecara&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
-
-<h2>Contact information</h2>
-<div>
-</div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermecara/guilhermecara/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermecara/guilhermecara/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guilhermecara/guilhermecara/output/github-contribution-grid-snake.svg">
-</picture>
