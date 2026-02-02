@@ -22,8 +22,10 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>    
 </div>
 
+<!--
 <h2>GitHub Status</h1>
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=guilhermecara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecara&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
+-->
