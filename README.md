@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+<h2>Hosts</h1> 
+<div align="center">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</div>
+
 <h2>Contact me</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-cardoso-de-araujo-038804325/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
